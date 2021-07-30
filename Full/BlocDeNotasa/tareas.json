@@ -1,0 +1,17 @@
+[
+
+   {
+       "tarea" :  "repasar JS",
+       "estado" : "terminada"
+   },
+   {
+       "tarea" :  "Armar listado de tareas",
+       "estado" : "en progreso"
+   },
+   {
+       "tarea" : "break",
+      "estado" : "pendiente"
+   }
+
+
+]
